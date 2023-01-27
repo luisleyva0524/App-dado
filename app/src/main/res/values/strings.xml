@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="roll">Roll</string>
+    <string name="click_the_button">Click the button!</string>
+    <string name="imagen_de_dado_con_sus_respectivas_caras_de_6_lados">imagen de dado con sus respectivas caras de 6 lados</string>
+</resources>
